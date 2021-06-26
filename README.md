@@ -3,7 +3,8 @@
 <p align="left">
 <a href="https://discord.com/users/501827050777215007" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://instagram.com/mremree5" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
+<a href="https://instagram.com/mremree5" target"blank_"><img src="https://img.shields.io/badge/STEAM%20-DC3175.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
+
   ## Langauges I Know:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
