@@ -1,9 +1,9 @@
 <h2 align="center">Hi :wave:, I'm Râven!</h2>
 <h3>My Personal accounts:</h3>
 <p align="left">
-<a href="https://discord.com/users/501827050777215007" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/501827050777215007" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=forthebadge&logo=discord&logoColor=white"></a>
 <a href="https://instagram.com/mremree5" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://instagram.com/mremree5" target"blank_"><img src="https://img.shields.io/badge/STEAM%20-DC3175.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://instagram.com/mremree5" target"blank_"><img src="https://img.shields.io/badge/steam%20-DC3175.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 
   ## Langauges I Know:
 
