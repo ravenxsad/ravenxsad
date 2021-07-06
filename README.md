@@ -5,9 +5,9 @@
 <a href="https://instagram.com/mremree5" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561198879584927" target"blank_"><img src="https://img.shields.io/badge/Steam%20-191717.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
-
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/501827050777215007)](https://discord.com/users/501827050777215007)
   
+<img src="https://komarev.com/ghpvc/?username=ravenxsad&label=Ziyaretçi%20Sayısı&color=552b75" alt="ravenxsad" />
+
   ## Langauges I Know:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
