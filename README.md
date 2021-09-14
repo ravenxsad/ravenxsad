@@ -6,7 +6,7 @@
 <a href="https://steamcommunity.com/profiles/76561198879584927" target"blank_"><img src="https://img.shields.io/badge/Steam%20-191717.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
   
-<img src="https://komarev.com/ghpvc/?username=ravenxsad&label=Ziyaretçi%20Sayısı&color=552b75" alt="ravenxsad" />
+<img src="https://komarev.com/ghpvc/?username=ravenxsad&label=Ziyaretçi%20Sayısı&color=37F613" alt="ravenxsad" />
 
   ## Langauges I Know:
 
