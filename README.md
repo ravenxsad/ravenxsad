@@ -2,7 +2,6 @@
 <h3>My Personal accounts:</h3>
 <p align="left">
 <a href="https://discord.com/users/501827050777215007" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://instagram.com/mremree5" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561198879584927" target"blank_"><img src="https://img.shields.io/badge/Steam%20-191717.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
   
